@@ -7,4 +7,4 @@ The line after the final line
 May 10th UPDATE
 after the some time I finally returned
 
-Git GUI TEST
+Addining smth new to test and refresh how git gui works 
