@@ -4,7 +4,4 @@ Standing strong
 Final line 
 The line after the final line
 
-May 10th UPDATE
-after the some time I finally returned
 
-Addining smth new to test and refresh how git gui works 
