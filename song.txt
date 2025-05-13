@@ -5,6 +5,3 @@ Final line
 The line after the final line
 
 
-Revert tasks 
-Revert tasks Revert tasks 
-Revert tasks Revert tasks 
